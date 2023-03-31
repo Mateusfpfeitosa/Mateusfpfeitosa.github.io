@@ -1,8 +1,7 @@
 import Portifolio from '../assets/projects/Portifolio___.png'
-import Chale from '../assets/projects/Chale-Hotel.png'
 import Museu from '../assets/projects/Museu-Nacional.png'
 import Tecno from '../assets/projects/Tecno-Blog.png'
-import Appimg from '../assets/projects/Img1.jpeg'
+import Appimg from '../assets/projects/Img3.jpeg'
 
 export const data=[
     {
@@ -10,34 +9,34 @@ export const data=[
         name:"React JS Aplicação",
         image:Portifolio,
         github:"https://github.com/Mateusfpfeitosa/Portifolio",
-        live:"",
+        live:"https://mateusportifolio.netlify.app/",
     },
     {
         id:2,
         name:"Site Desenvolvido com HTML CSS JavaScript",
-        image:Chale,
-        github:"",
-        live:"",
+        image:Museu,
+        github:"https://github.com/Mateusfpfeitosa/PWA_Pratica",
+        live:"https://museu.netlify.app",
     },
     {
-        id:3,
-        name:"React JS Application",
-        image:Museu,
-        github:"",
+        id:4,
+        name:"Site Desenvolvido com HTML CSS",
+        image:Tecno,
+        github:"https://github.com/Mateusfpfeitosa/TecnoBlog",
         live:"",
     },
     {
         id:4,
-        name:"React JS Application",
+        name:"Site Desenvolvido com HTML CSS",
         image:Tecno,
-        github:"",
+        github:"https://github.com/Mateusfpfeitosa/TecnoBlog",
         live:"",
     },
     {
         id:5,
-        name:"React JS Application",
+        name:"APP desenvolvido com React-Native",
         image:Appimg,
-        github:"",
+        github:"https://github.com/Mateusfpfeitosa/Buscador_Cep",
         live:"",
     },
 

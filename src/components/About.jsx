@@ -18,7 +18,7 @@ const About = () => {
           </div>
           <div>
             <p>Desenvolver software é minha paixão, pois me permite criar sistemas e resolver problemas de forma eficiente.
-            acredito que a tecnologia pode mudar o mundo de forma positiva.   
+              acredito que a tecnologia pode mudar o mundo de forma positiva.   
             </p>  
           </div>
         </div>
