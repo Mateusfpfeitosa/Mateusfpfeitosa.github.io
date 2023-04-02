@@ -1,7 +1,9 @@
-import Portifolio from '../assets/projects/Portifolio___.png'
+import Portifolio from '../assets/projects/Portifolio.png'
 import Museu from '../assets/projects/Museu-Nacional.png'
-import Tecno from '../assets/projects/Tecno-Blog.png'
-import Appimg from '../assets/projects/Img3.jpeg'
+import Appcep from '../assets/projects/App_Cep.png'
+import Apptarefa from '../assets/projects/App_Tarefas.png'
+import Appmoeda from '../assets/projects/App_Moedas.png'
+import Appfimes from '../assets/projects/App_Fimes.png'
 
 export const data=[
     {
@@ -19,25 +21,34 @@ export const data=[
         live:"https://museu.netlify.app",
     },
     {
-        id:4,
-        name:"Site Desenvolvido com HTML CSS",
-        image:Tecno,
-        github:"https://github.com/Mateusfpfeitosa/TecnoBlog",
+        id:3,
+        name:"Aplicativo Conversor de Moedas consumindo Api externa",
+        image:Appmoeda,
+        github:"https://github.com/Mateusfpfeitosa/Conversor_de_Moedas.git",
         live:"",
     },
     {
         id:4,
-        name:"Site Desenvolvido com HTML CSS",
-        image:Tecno,
-        github:"https://github.com/Mateusfpfeitosa/TecnoBlog",
+        name:"Aplicativo de sinopse de filmes consumindo API Externa",
+        image:Appfimes,
+        github:"https://github.com/Mateusfpfeitosa/Filmes.git",
         live:"",
     },
     {
         id:5,
-        name:"APP desenvolvido com React-Native",
-        image:Appimg,
-        github:"https://github.com/Mateusfpfeitosa/Buscador_Cep",
+        name:"Aplicativos de tarefas com autenticação firebase ",
+        image:Apptarefa,
+        github:"https://github.com/Mateusfpfeitosa/App_Tarefas.git",
         live:"",
     },
-
+    {
+        id:6,
+        name:"Aplicativo Buscador cep consultador de endereço consumindo API Externa ",
+        image:Appcep,
+        github:"https://github.com/Mateusfpfeitosa/Buscador_Cep.git",
+        live:"",
+    },
+    
+    
+    
 ] 
